@@ -1,6 +1,6 @@
 # Santiago de la Carrera López
 
-Trabajo en ciberseguridad, FinOps en la nube e inteligencia artificial aplicada. Fundé **Nexus Security & AI Lab**, donde diseño y construyo herramientas técnicas para equipos que necesitan controlar riesgo, costo y trazabilidad.
+Trabajo en ciberseguridad, FinOps en la nube e inteligencia artificial aplicada. Estoy construyendo **Nexus Security & AI Lab**, donde diseño y desarrollo herramientas técnicas para equipos que necesitan controlar riesgo, costo y trazabilidad.
 
 Mi forma de trabajar: pruebas automatizadas, documentación de lo que está verificado y de lo que no, y ningún paso que cambie sistemas reales sin aprobación humana.
 
