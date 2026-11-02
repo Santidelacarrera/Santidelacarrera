@@ -11,6 +11,8 @@ Mi forma de trabajar: pruebas automatizadas, documentación de lo que está veri
 - **[ContextRAG Engine](https://github.com/Santidelacarrera/ContextRAG_Engine)**: motor de preguntas sobre documentos que cita sus fuentes y se niega a responder cuando no tiene evidencia. En piloto controlado, no listo para documentos confidenciales.
 - **[CloudForge FinOps](https://github.com/Santidelacarrera/CloudForge_FinOps)**: orquestador que convierte datos de facturación en recomendaciones, y nunca aplica cambios sin un plan de simulación y una aprobación humana. En desarrollo local.
 - **[DOCMIND AI](https://github.com/Santidelacarrera/DOCMIND_AI)**: extracción y consulta de documentos PDF y Word con citas por página y aislamiento entre organizaciones. En piloto controlado.
+- **[Autonomous Red Teaming](https://github.com/Santidelacarrera/autonomous-red-teaming)**: plataforma defensiva de simulación de brechas (BAS) y gestión continua de exposición a amenazas (CTEM). Modela activos en un grafo, simula decisiones alineadas con MITRE ATT&CK y propone remediaciones que una persona debe aprobar. No toca infraestructura real.
+- **[Portafolio Javiera Gurruchaga](https://github.com/Santidelacarrera/Portafolio_publicidad_y_Marketing_Javi)**: sitio público y panel administrativo, hecho como regalo personal. Netlify sirve el sitio y recibe mensajes con Netlify Forms; Supabase aporta autenticación, base de datos con RLS y almacenamiento de multimedia.
 
 ## Contacto
 
